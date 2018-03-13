@@ -1,0 +1,6 @@
+C:\Users\Len\source\repos\SivsMarriageMod\SivsMarriageMod\obj\Debug\SivsMarriageMod.csprojResolveAssemblyReference.cache
+C:\Users\Len\source\repos\SivsMarriageMod\SivsMarriageMod\obj\Debug\SivsMarriageMod.csproj.CoreCompileInputs.cache
+C:\Users\Len\source\repos\SivsMarriageMod\SivsMarriageMod\bin\Debug\SivsMarriageMod.dll
+C:\Users\Len\source\repos\SivsMarriageMod\SivsMarriageMod\bin\Debug\SivsMarriageMod.pdb
+C:\Users\Len\source\repos\SivsMarriageMod\SivsMarriageMod\obj\Debug\SivsMarriageMod.dll
+C:\Users\Len\source\repos\SivsMarriageMod\SivsMarriageMod\obj\Debug\SivsMarriageMod.pdb
